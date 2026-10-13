@@ -1,0 +1,1 @@
+From the project root, run `mvn spring-boot:run` if Maven is installed. If you have a Maven wrapper, run `.\mvnw.cmd spring-boot:run`. Set your PostgreSQL password in application.properties or the DB_PASSWORD environment variable before starting.
